@@ -2,8 +2,7 @@
 
 #### 👩🏻‍💻 Web Developer/Frontend Developer/Backend Developer/Software Enginerring /UI UX desinger 
 
-##### 🌱 I’m currently reading Bsc (Hons) in Information Technology Specializing in Software Engineering || @SLIIT ||
-##### 🔭 I’m currently working on @Habb
+##### 🌱 I’m currently reading Bsc (Hons) in Information Technology Specializing in Software Engineering | @SLIIT 
 ##### 💬 I am passionate about coding and spend hours learning new technologies.
 ##### 💡 Learning is a continuous process, and here's my current focus!  
 
