@@ -8,12 +8,23 @@
 
 ## Hi 👋, I'm Vithusha Pathmanathan
 
-#### 👩🏻‍💻 Software Enginerring /UI UX desinger /Web Developer /Frontend Developer /Backend Developer
+#### 👩🏻‍💻 Software Enginerring 
 
 ##### 🌱 I’m currently reading Bsc (Hons) in Information Technology Specializing in Software Engineering | @SLIIT 
 ##### 💬 I am passionate about coding and spend hours learning new technologies.
 ##### 💡 Learning is a continuous process, and here's my current focus!  
 
+
+## 🚀 Technical Expertise
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+
+### SQL & Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
 
 ## Connect with me:
