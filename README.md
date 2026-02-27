@@ -19,3 +19,12 @@
 ---
 
 ⭐ **Check out my projects at [GitHub](https://github.com/your-github-Vithusha14/)** ⭐
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Vithusha+Pathmanathan;Software+Engineer;Engineering+Impactful+Digital+Solutions" />
+</p>
+
+<p align="center">
+  <i>Clean Architecture • Scalable Systems • Continuous Growth</i>
+</p>
