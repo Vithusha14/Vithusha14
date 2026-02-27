@@ -21,10 +21,17 @@
 ⭐ **Check out my projects at [GitHub](https://github.com/your-github-Vithusha14/)** ⭐
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Vithusha+Pathmanathan;Software+Engineer;Engineering+Impactful+Digital+Solutions" />
-</p>
+<h3 align="center">💻 Software Engineer</h3>
 
 <p align="center">
-  <i>Clean Architecture • Scalable Systems • Continuous Growth</i>
+  Engineering scalable systems with precision and purpose.
 </p>
+
+const vithusha = {
+  role: "Software Engineer",
+  focus: ["Full-Stack Development", "System Architecture", "Clean Code"],
+  mindset: "Continuous Learning",
+  motto: "Build. Improve. Repeat."
+};
+
+export default vithusha;
