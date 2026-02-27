@@ -28,6 +28,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
+
+  ## 🚀 Tech Stack
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,c" />
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" />
+
+### 🛠 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### 🗄 Database
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### ☁️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 
 
