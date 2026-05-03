@@ -19,22 +19,22 @@
 
 ## 🚀 Technical Expertise
 
-### 🎨 Frontend
+###  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
 </p>
 
-### ⚙️ Backend
+###  Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,java,fastapi,python" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### 🤖 AI / Data Science Tools
+###  AI / Data Science Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
   &nbsp;
@@ -45,21 +45,20 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vithusha14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vithusha14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" height="170"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vithusha14&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vithusha14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vithusha14&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vithusha14&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=c9d1d9&dates=c9d1d9" width="100%"/>
 </p>
-
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vithusha-pathmanathan-8b356828a">
