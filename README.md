@@ -10,9 +10,9 @@
 
 ## 👋 Hi, I'm Vithusha Pathmanathan
 
-🎓 **BSc (Hons) in Information Technology** — Specializing in Software Engineering @ **SLIIT**  
+🎓 **BSc (Hons) in Information Technology** - Specializing in Software Engineering @ **SLIIT**  
 💻 Passionate software engineer who loves turning ideas into clean, scalable digital solutions  
-🌱 Continuous learner — always exploring new technologies and best practices  
+🌱 Continuous learner - always exploring new technologies and best practices  
 💡 Currently diving deeper into **AI/ML integrations**, **full-stack development**, and **system design**
 
 ---
