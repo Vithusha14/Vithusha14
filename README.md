@@ -23,6 +23,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp,html,css,php,kotlin" />
 </p>
+
 ###  Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,next,react native,nodejs,express,spring" />
@@ -34,10 +35,12 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
+
 ###  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
+
 ###  Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,idea,eclipse,androidstudio,figma" />
@@ -49,6 +52,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
+
 ###  Core Competencies
 <p>
   <img src="https://img.shields.io/badge/MERN_Stack-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
