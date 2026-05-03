@@ -36,8 +36,6 @@
 
 ###  AI / Data Science Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  &nbsp;
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
@@ -45,18 +43,6 @@
 
 ---
 
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vithusha14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vithusha14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vithusha14&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff9800&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=c9d1d9&dates=c9d1d9" width="100%"/>
-</p>
----
 
 ##  Connect with Me
 
@@ -80,8 +66,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vithusha14&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
 
 <p align="center">⭐ <b>Explore my projects on <a href="https://github.com/Vithusha14">GitHub</a></b> ⭐</p>
