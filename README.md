@@ -44,20 +44,7 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-###  Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,spring" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode,postman,idea,eclipse,androidstudio,figma" />
   &nbsp;
