@@ -6,39 +6,83 @@
   <i>Clean Architecture • Scalable Systems • Continuous Growth</i>
 </p>
 
+---
 
-## Hi 👋, I'm Vithusha Pathmanathan
+## 👋 Hi, I'm Vithusha Pathmanathan
 
-#### 👩🏻‍💻 Software Enginerring 
+🎓 **BSc (Hons) in Information Technology** — Specializing in Software Engineering @ **SLIIT**  
+💻 Passionate software engineer who loves turning ideas into clean, scalable digital solutions  
+🌱 Continuous learner — always exploring new technologies and best practices  
+💡 Currently diving deeper into **AI/ML integrations**, **full-stack development**, and **system design**
 
-##### 🌱 I’m currently reading Bsc (Hons) in Information Technology Specializing in Software Engineering | @SLIIT 
-##### 💬 I am passionate about coding and spend hours learning new technologies.
-##### 💡 Learning is a continuous process, and here's my current focus!  
-
+---
 
 ## 🚀 Technical Expertise
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+</p>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,java" />
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,fastapi,python" />
+</p>
 
-### SQL & Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
-
-## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[your-profile](https://www.linkedin.com/in/vithusha-pathmanathan-8b356828a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)/)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/[@your-medium-username](https://medium.com/@vithusha_))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vithusha014@gmail.com)
-
-
+### 🤖 AI / Data Science Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
 ---
 
-⭐ **Check out my projects at [GitHub](https://github.com/your-github-Vithusha14/)** ⭐
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vithusha14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vithusha14&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vithusha14&theme=tokyonight&hide_border=true" />
+</p>
 
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vithusha-pathmanathan-8b356828a">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@vithusha_">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vithusha014@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Vithusha14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vithusha14&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">⭐ <b>Explore my projects on <a href="https://github.com/Vithusha14">GitHub</a></b> ⭐</p>
