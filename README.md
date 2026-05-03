@@ -17,32 +17,49 @@
 
 ---
 
-## 🚀 Technical Expertise
-
-###  Frontend
+## 🚀 Technical Skills
+ 
+###  Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,c,cpp,html,css,php,kotlin" />
 </p>
-
-###  Backend
+###  Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,fastapi,python" />
+  <img src="https://skillicons.dev/icons?i=react,next,react native,nodejs,express,spring" />
 </p>
-
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 ###  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
-
-###  AI / Data Science Tools
+###  Tools & Platforms
 <p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,postman,idea,eclipse,androidstudio,figma" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
-
+###  Core Competencies
+<p>
+  <img src="https://img.shields.io/badge/MERN_Stack-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OOP_Principles-007396?style=for-the-badge&logo=java&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Full_Stack_Development-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST_API_Design-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 ---
-
 
 ##  Connect with Me
 
